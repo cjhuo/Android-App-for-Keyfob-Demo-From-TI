@@ -12,6 +12,6 @@ Restrictions
 Some hints on the application 
 =============================
 
-1. Its better to keep the DEFAULT_ENABLE_UPDATE_REQUEST    FALSE, specially if some one is testing more than firmware from CC2540 standpoint. 
+1. Its better to keep the DEFAULT_ENABLE_UPDATE_REQUEST    FALSE, specially if some one is testing more than one firmware from CC2540 standpoint. 
 
 2. Its better to completely close the android application before modifying and flashing a new firmware to the CC2540. 
